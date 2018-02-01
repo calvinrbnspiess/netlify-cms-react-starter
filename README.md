@@ -1,5 +1,7 @@
 # 🌶 Netlify CMS + React Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/calvinrbnspiess/netlify-cms-react-starter.svg)](https://greenkeeper.io/)
+
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
 
 A starter project for creating lightning-fast, offline-first websites with [Netlify CMS](https://netlifycms.org) and React.
